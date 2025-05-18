@@ -2,5 +2,5 @@ numpy
 pandas
 SQLAlchemy
 streamlit
-psycopg2
+psycopg2-binary
 plotly
